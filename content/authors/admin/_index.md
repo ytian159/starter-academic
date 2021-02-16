@@ -17,8 +17,7 @@ organizations:
 bio: My research is mainly focusing on planetary seismology. I developed my own Matlab seismic modeling code using Boundary element Method (BEM). I also use other modeling codes like AxisSEM. I can derive analytical solution for simple finite body. I’m familiar with normal modes, which could be important in planetary research. I can use parallel computing and GPU to accelerate my code. 
 
 # Interests to show in About widget
-interests:
-Planetary seismology, Earth and planet interior structure, Orbital evolution of moons, Planet early accretion, Surface process of small bodies, Earthquake detection, Seismic wavefield modeling, High performance computing, Data science.
+interests:Planetary seismology, Earth and planet interior structure, Orbital evolution of moons, Planet early accretion, Surface process of small bodies, Earthquake detection, Seismic wavefield modeling, High performance computing, Data science.
 
 
 # Education to show in About widget
