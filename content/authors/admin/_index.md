@@ -19,7 +19,6 @@ bio: My research is mainly focusing on planetary seismology. I developed my own 
 # Interests to show in About widget
 interests:Planetary seismology, Earth and planet interior structure, Orbital evolution of moons, Planet early accretion, Surface process of small bodies, Earthquake detection, Seismic wavefield modeling, High performance computing, Data science.
 
-
 # Education to show in About widget
 education:
   courses:
