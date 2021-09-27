@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Seismic wavefields in a planet and their influence on the satellite orbit.
 
 # View.
 #   1 = List
